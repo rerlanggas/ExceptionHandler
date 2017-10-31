@@ -1,5 +1,5 @@
 # ExceptionHandler
-Simple Library for Intent to destination Activity when apps force close
+Simple Library for Redirect to destination Activity when apps force close
 
 This is an Android project allowing to Intent to destination Activity when apps force close in the simplest way possible.
 
