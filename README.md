@@ -19,7 +19,7 @@ allprojects {
 Add dependencies :
 ```gradle
 dependencies {
-     compile 'com.github.rerlanggas:ExceptionHandler:1.0.0'
+     implementation 'com.github.rerlanggas:ExceptionHandler:1.0.0'
 }
 ```
 # JAVA
