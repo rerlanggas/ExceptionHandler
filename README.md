@@ -30,7 +30,12 @@ add this code in first activity launch
 ```
 
 # Kotlin
-will be updated for kotlin soon
+add this code in first activity launch
+```java
+        //init exception handler, add destination activity
+        ExceptionHandler.init(this, [[Destination Activity]]::class.java);
+```
+
 
 # Sample Code to Use
 Open this Sample Code to Using this Library
