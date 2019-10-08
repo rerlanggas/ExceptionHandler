@@ -28,6 +28,10 @@ add this code in first activity launch
         //init exception handler, add destination activity
         ExceptionHandler.init(this, [[Destination Activity]].class);
 ```
+
+# Kotlin
+will be updated for kotlin soon
+
 # Sample Code to Use
 Open this Sample Code to Using this Library
 https://github.com/rerlanggas/SampleExceptionHandler
